@@ -33,6 +33,7 @@ public class Aleart {
 		alert3.sendKeys("avinsh");
 		Thread.sleep(3000);
 		alert3.accept();
+		System.out.println("git");
 		
 	}
 
